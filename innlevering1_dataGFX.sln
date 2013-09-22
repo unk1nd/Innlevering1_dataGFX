@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "del1", "innlevering1_dataGFX\innlevering1_dataGFX\del1.csproj", "{E701CE78-26C9-4FA1-9C02-4415E6C29792}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "innlevering1_dataGFXContent", "innlevering1_dataGFX\innlevering1_dataGFXContent\innlevering1_dataGFXContent.contentproj", "{EF9B0025-EEF2-43D8-8597-FDF5C776AEBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "del2", "del2\del2\del2.csproj", "{15AAACC7-30FD-466B-8790-A8BD8E17407A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "del2Content", "del2\del2Content\del2Content.contentproj", "{BE4161D7-70D8-4173-8475-D400615EF571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E701CE78-26C9-4FA1-9C02-4415E6C29792}.Debug|x86.ActiveCfg = Debug|x86
+		{E701CE78-26C9-4FA1-9C02-4415E6C29792}.Debug|x86.Build.0 = Debug|x86
+		{E701CE78-26C9-4FA1-9C02-4415E6C29792}.Release|x86.ActiveCfg = Release|x86
+		{E701CE78-26C9-4FA1-9C02-4415E6C29792}.Release|x86.Build.0 = Release|x86
+		{EF9B0025-EEF2-43D8-8597-FDF5C776AEBB}.Debug|x86.ActiveCfg = Debug|x86
+		{EF9B0025-EEF2-43D8-8597-FDF5C776AEBB}.Release|x86.ActiveCfg = Release|x86
+		{15AAACC7-30FD-466B-8790-A8BD8E17407A}.Debug|x86.ActiveCfg = Debug|x86
+		{15AAACC7-30FD-466B-8790-A8BD8E17407A}.Debug|x86.Build.0 = Debug|x86
+		{15AAACC7-30FD-466B-8790-A8BD8E17407A}.Release|x86.ActiveCfg = Release|x86
+		{15AAACC7-30FD-466B-8790-A8BD8E17407A}.Release|x86.Build.0 = Release|x86
+		{BE4161D7-70D8-4173-8475-D400615EF571}.Debug|x86.ActiveCfg = Debug|x86
+		{BE4161D7-70D8-4173-8475-D400615EF571}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
